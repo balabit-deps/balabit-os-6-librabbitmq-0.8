@@ -1,3 +1,9 @@
+librabbitmq (0.8.0-1bb1) xenial; urgency=medium
+
+  * Balabit patched version
+
+ -- Balabit Platform Team <devnull@dev.null>  Mon, 05 Feb 2018 14:27:51 +0000
+
 librabbitmq (0.8.0-1) unstable; urgency=medium
 
   * Update Vcs-Git header to use https.
