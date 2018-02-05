@@ -1,4 +1,4 @@
-Source: librabbitmq
+Source: librabbitmq-0.8
 Priority: optional
 Section: libs
 Maintainer: Michael Fladischer <fladi@debian.org>
